@@ -117,7 +117,7 @@ class Watchlist(Cog_Extension):
             embed = discord.Embed(description=msg, color=discord.Color.blue())
         else:
             msg = "You haven't added any collection to watchlist.\n"
-            msg += "Please use `$wl_add <colletion_slug> <operator> <price> USD` to set the watchlist."
+            msg += "Please use `\wl_add <colletion_slug> <operator> <price> USD` to set the watchlist."
             embed = discord.Embed(description=msg, color=discord.Color.red())
         await ctx.send(embed=embed)
 
