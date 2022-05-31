@@ -1,0 +1,130 @@
+{
+  "problems": [
+    {
+      "cls": "CN",
+      "des": "Organized Pendulum",
+      "img": "https://media0.giphy.com/media/13UazF4VlXZgqc/giphy.gif?cid=ecf05e479uey1zy4xldnwf0ji81d24job32k6w2qh9ac1mhh&rid=giphy.gif&ct=g",
+      "btn": [
+        "😶",
+        "🙂",
+        "😃",
+        "😍",
+        "🤩"
+      ],
+      "inv": false,
+      "ins": "🍂 I prefer to be with people who have the same ideas and tastes as myself. \n🍂 I get very upset when things around me arent in their place. \n🍂 Any solution to a problem is better than remaining in a state of uncertainty. "
+    },
+    {
+      "cls": "CN",
+      "des": "Chaos Cake",
+      "img": "https://media4.giphy.com/media/3ohhwk9lDmlk2dL9Go/giphy.gif?cid=ecf05e47n70iz1qng7dkjedtif2u73ydda6scy1skuygq016&rid=giphy.gif&ct=g",
+      "btn": [
+        "😎",
+        "🙁",
+        "😰",
+        "😱",
+        "☠️"
+      ],
+      "inv": false,
+      "ins": "🍂 I don't like to go into a situation without knowing what I can expect from it. \n🍂 I don't like situations that are uncertain."
+    },
+    {
+      "cls": "CN",
+      "des": "Difficult Things",
+      "img": "https://media4.giphy.com/media/LvqP06QcYTP9qOgxks/giphy.gif?cid=ecf05e47i0oe8np556o7a1sull0gr3af6wwzjnr8m5qlgc3v&rid=giphy.gif&ct=g",
+      "btn": [
+        "❌",
+        "🦠",
+        "💓",
+        "💝",
+        "🎇"
+      ],
+      "inv": true,
+      "ins": "🍂 I prefer things to which I am used to those I do not know, and cannot predict. \n🍂 I like to have the responsibility of handling a situation that requires a lot of thinking "
+    },
+    {
+      "cls": "EN",
+      "des": "Saving Money",
+      "img": "https://media3.giphy.com/media/d82h5KmOMrFIxI2y04/giphy.gif?cid=ecf05e47lspfzglr2b5v6mpvgw2stjaf7asqhh6bwlkymzza&rid=giphy.gif&ct=g",
+      "btn": [
+        "🖕🏼",
+        "👎🏼",
+        "👋🏼",
+        "👍🏼",
+        "🙌🏼"
+      ],
+      "inv": false,
+      "ins": "🍂 I am anxious that I will fall short of my responsibilities and obligations. \n🍂 I often think about the person I an afraid I might become in the future. \n🍂 I often worry that I will fail to accomplish my academic goals. \n🍂 I am more oriented toward preventing losses than I am toward achieving gains. \n🍂 I frequently think how I can prevent failures in my life."
+    },
+    {
+      "cls": "EN",
+      "des": "Advanture",
+      "img": "https://media4.giphy.com/media/2A28UqokaOIURQoOU5/giphy.gif?cid=ecf05e47y1nwvew734hi1faxmtucast4ie8paqayg5f7bg6y&rid=giphy.gif&ct=g",
+      "btn": [
+        "🤮",
+        "🤕",
+        "🥱",
+        "🤓",
+        "🥳"
+      ],
+      "inv": true,
+      "ins": "🍂 I typically focus on the success I hope to achieve in the future. \n🍂 I frequently imagine how I will achieve my hopes and aspirations. \n🍂 I see myself as someone who is primarily striving to reach my [ideal self]-to fulfill my hope, wishes, and aspirations."
+    },
+    {
+      "cls": "EN",
+      "des": "Emotion",
+      "img": "https://media2.giphy.com/media/l3q2RoEgmvxXIvA5i/giphy.gif?cid=ecf05e47ctvp2mch35xqoixot1jsuo4vqrq9zbl2enf92g4m&rid=giphy.gif&ct=g",
+      "btn": [
+        "😭",
+        "😢",
+        "🤨",
+        "😂",
+        "🤣"
+      ],
+      "inv": true,
+      "ins": "🍂 I am confident I get the success I deserve in life. \n🍂 I feel depressed. When I try, I succeed. \n🍂 I do not feel in control of my work. \n🍂 I am capable of coping with most of my problems."
+    },
+    {
+      "cls": "EN",
+      "des": "Funeral",
+      "img": "https://media0.giphy.com/media/lqjx7HxtNj9RQYrHY6/giphy.gif?cid=ecf05e47ijuuomzbnvixxgcptff2z87lkxbqbrh72p7vujgf&rid=giphy.gif&ct=g",
+      "btn": [
+        "😖",
+        "😣",
+        "😦",
+        "😐",
+        "🆗"
+      ],
+      "inv": true,
+      "ins": "🍂 The certainty of death makes life meaningless. \n🍂 Getting old worries me. \n🍂 The sight of a corpse deeply chocks me. \n🍂 I often think I may have a serious disease."
+    },
+    {
+      "cls": "SN",
+      "des": "Protest",
+      "img": "https://media3.giphy.com/media/3o6ZsVuQw2StpwojGE/giphy.gif?cid=ecf05e47bg5b52ruubqzmfx2jr5xu4j0l6potvpt38im5vyx&rid=giphy.gif&ct=g",
+      "btn": [
+        "⛔",
+        "🙅",
+        "👊",
+        "👐",
+        "🤗"
+      ],
+      "inv": true,
+      "ins": "🍂 Equal distribution of resources is a possibility for our society. \n🍂 It is unfair to have an economic system which produces extreme wealth and extreme poverty at the same time."
+    },
+    {
+      "cls": "SN",
+      "des": "Social Groups",
+      "img": "https://media1.giphy.com/media/3orieJQ2qX3j8gUwsU/giphy.gif?cid=ecf05e47aoybzpjlf9p3syqcar2dkn268crx7juqwabyscts&rid=giphy.gif&ct=g",
+      "btn": [
+        "😾",
+        "🙀",
+        "😼",
+        "😸",
+        "😹"
+      ],
+      "inv": false,
+      "ins": "🍂 To get ahead in life, it is sometimes necessary to step on other groups. \n🍂 If certain groups of people stayed in their place, we would have fewer problems. \n🍂 Sometimes other groups must be kept in their place."
+    }
+  ]
+}
